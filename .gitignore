@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+dist/
+scripts/out.md
+test.js
